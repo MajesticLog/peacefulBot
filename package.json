@@ -1,0 +1,23 @@
+{
+  "name": "bot_demo",
+  "version": "1.0.0",
+  "description": "bot for physcomp",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "installation"
+  ],
+  "author": "LAAP",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "fast-safe-stringify": "^2.1.1",
+    "twit": "^2.2.11",
+    "twitter-api-v2": "^1.11.0",
+    "twitter-v2": "^1.1.0",
+    "ws": "^8.5.0"
+  }
+}
